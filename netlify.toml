@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/signin"
-  to = "/signin/signin.html"
+  to = "/signin/index.html"
   status = 200
 
 [[redirects]]
